@@ -1,2 +1,2 @@
-# SQL_Problems_on_Pizza_Sales
+# Domino's Sales Analysis
 Pizza Sales Analysis using SQL
